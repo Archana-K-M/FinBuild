@@ -42,7 +42,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")  # For chatbot
 # Twilio configuration
 account_sid = 'api-key'  # Replace with your Twilio Account SID
 auth_token = 'token-key'      # Replace with your Twilio Auth Token
-twilio_whatsapp_number = 'whatsapp:+14155238886'     # Twilio's WhatsApp sandbox number
+twilio_whatsapp_number = 'sandbox-number'     # Twilio's WhatsApp sandbox number
 client = Client(account_sid, auth_token)
 
 # APScheduler configuration
