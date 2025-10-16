@@ -179,11 +179,6 @@ We thank the following people for their valuable contributions:
 For inquiries or collaborations:
 
 * **Name**: Archana K M
-* **Email**: [archanakm297@gmail.com](mailto:archanakm297@gmail.com)
+* **Email**: [archanakm297@gmail.com](mailto:archanamurugan29@gmail.com)
 * **GitHub**: [Archana-K-M](https://github.com/Archana-K-M)
 
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) f
