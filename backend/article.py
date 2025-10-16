@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Your News API key
-NEWS_API_KEY = '2d81a14081ae4493892bbcf8a2526c47'
+NEWS_API_KEY = 'api-key'
 
 @app.route('/get_articles', methods=['GET'])
 def get_articles():
